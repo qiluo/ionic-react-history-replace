@@ -1,0 +1,7 @@
+{
+  "name": "history-replace",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
